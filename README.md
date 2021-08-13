@@ -23,3 +23,4 @@ In this project, my aim is to have a better understanding about growth and impac
 [Projetct Notebook: Exploring the Bitcoin Cryptocurrency Market](https://nbviewer.jupyter.org/github/Jailiglesias/PortofolioProjects/blob/main/Project%202%20-%20Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/project_BitcoinCryptocurrencyMarket.ipynb)
 
 
+
