@@ -22,5 +22,11 @@ In this project, my aim is to have a better understanding about growth and impac
 
 [Projetct Notebook: Exploring the Bitcoin Cryptocurrency Market](https://nbviewer.jupyter.org/github/Jailiglesias/PortofolioProjects/blob/main/Project%202%20-%20Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/project_BitcoinCryptocurrencyMarket.ipynb)
 
+### Project 3 - Covid Data Exploration
 
+**Description:** 
+
+* This project contains COVID 19 worldwide data using statements such as SELECT, WHERE, ORDER BY, etc. and functions like MAX, CAST, SUM, etc.
+
+* It is also analyzed the status of vaccinations with Joins and Views, Temp Tables and CTEs.
 
