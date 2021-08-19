@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-### Project 1 - Analyze International Debt Statistics
+### Project 1 - Analyze International Debt Statistics with SQL
 
 **Description:** 
 
@@ -14,7 +14,7 @@ This is a project offered by DataCamp, in which I analyze things like:
 
 [Project Notebook: Analyze International Debt Statistics](https://nbviewer.jupyter.org/github/Jailiglesias/PortofolioProjects/blob/main/Project%201%20-%20International%20Debt%20Statistics/project_%20InternationalDebtStatistics.ipynb)
 
-### Project 2 - Exploring the Bitcoin Cryptocurrency Market
+### Project 2 - Exploring the Bitcoin Cryptocurrency Market with Python
 
 **Description:** 
 
@@ -22,7 +22,7 @@ In this project, my aim is to have a better understanding about growth and impac
 
 [Projetct Notebook: Exploring the Bitcoin Cryptocurrency Market](https://nbviewer.jupyter.org/github/Jailiglesias/PortofolioProjects/blob/main/Project%202%20-%20Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/project_BitcoinCryptocurrencyMarket.ipynb)
 
-### Project 3 - Covid Data Exploration
+### Project 3 - Covid Data Exploration with SQL Server
 
 **Description:** 
 
